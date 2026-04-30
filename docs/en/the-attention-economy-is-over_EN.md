@@ -1,5 +1,4 @@
 # The End of the Attention Economy. What Should the Next SNS Look Like?
-アテンション・エコノミーの終わり。次世代SNSの在り方とは？
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](https://github.com/Leading-AI-IO/the-attention-economy-is-over/blob/main/docs)
@@ -1541,11 +1540,12 @@ It is us — who design, build, and choose.
 
 ## About the Author
 **Satoshi Yamauchi**
-AI Strategist & Business Designer. Founder / CEO, Leading.AI LLC.
-A BTC professional who crosses three domains — Business, Design, and Technology — at a professional level. Publishing knowledge across all themes of "Generative AI × Strategy."
-This book is the 15th in the open-source book series published by Leading.AI.
+AI Strategist & Business Designer. Founder / CEO, Leading.AI LLC.<br/>
+A BTC professional who crosses three domains — Business, Design, and Technology — <br/>
+at a professional level. Publishing knowledge across all themes of "Generative AI × Strategy."<br/>
+This book is the 15th in the open-source book series published by Leading.AI.<br/>
 
 ## License
 
-This work is published under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This work is published under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).<br/>
 Quoting, redistribution, and modification are free. Please credit the author.
