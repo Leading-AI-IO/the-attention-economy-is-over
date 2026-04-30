@@ -343,14 +343,14 @@ And it is this conflict of interest that is being recognized as a "defective pro
 graph TB
     subgraph "Structural Conflict of Interest in the Attention Economy"
         A[User's Best Interest]
-        B[Obtain needed information<br/>Feel satisfied and close the app]
+        B[Obtain needed information\nFeel satisfied and close the app]
         A --> B
 
         C[Platform's Best Interest]
-        D[User does not leave<br/>and continues to stay]
+        D[User does not leave\nand continues to stay]
         C --> D
 
-        B -."Structurally<br/>opposed".-> D
+        B -."Structurally\nopposed".-> D
     end
 
     subgraph "Revenue Conversion Mechanism"
@@ -570,17 +570,17 @@ The courts and regulators have taken 20 years to finally reach this structure.
 ```mermaid
 graph TB
     subgraph "Convergence of the Legal Paradigm Shift"
-        A[1996<br/>Section 230<br/>"Content liability lies with the poster"]
-        B[2022-2026<br/>New Paradigm<br/>"Design liability lies with the platform"]
+        A[1996\nSection 230\n"Content liability lies with the poster"]
+        B[2022-2026\nNew Paradigm\n"Design liability lies with the platform"]
         A ==20 years==> B
     end
 
     subgraph "Paths of Arrival by Jurisdiction"
-        C[United States<br/>Product Liability Litigation]
-        D[EU<br/>DSA/AI Act Regulation]
-        E[Australia<br/>Age Restriction Legislation]
-        F[Japan<br/>Transparency + Competition Law]
-        G[United Kingdom<br/>OSA Risk Assessment]
+        C[United States\nProduct Liability Litigation]
+        D[EU\nDSA/AI Act Regulation]
+        E[Australia\nAge Restriction Legislation]
+        F[Japan\nTransparency + Competition Law]
+        G[United Kingdom\nOSA Risk Assessment]
     end
 
     C --> B
@@ -725,9 +725,9 @@ Costs are measured by no one.
 ```mermaid
 graph LR
     subgraph "The Accounting Asymmetry of the Attention Economy"
-        A[Revenue Side<br/>Precisely measured<br/>Meta $170B<br/>YouTube $36B<br/>Global SNS ads $250B]
-        B[Cost Side<br/>Not measured<br/>Mental health<br/>Productivity loss<br/>Social costs]
-        A -."Structural<br/>asymmetry".-> B
+        A[Revenue Side\nPrecisely measured\nMeta $170B\nYouTube $36B\nGlobal SNS ads $250B]
+        B[Cost Side\nNot measured\nMental health\nProductivity loss\nSocial costs]
+        A -."Structural\nasymmetry".-> B
     end
 
     style A fill:#1e2a3a,stroke:#1e2a3a,color:#fff
@@ -919,9 +919,9 @@ In other words, the MSI algorithm generated the following loop:
 
 ```mermaid
 graph TB
-    A[Content that triggers anger] --> B[Increase in negative comments<br/>= high MSI score]
-    B --> C[Algorithm distributes<br/>more widely]
-    C --> D[More people<br/>feel anger]
+    A[Content that triggers anger] --> B[Increase in negative comments\n= high MSI score]
+    B --> C[Algorithm distributes\nmore widely]
+    C --> D[More people\nfeel anger]
     D --> A
 
     style A fill:#8b3a3a,stroke:#8b3a3a,color:#fff
@@ -1404,18 +1404,18 @@ However, both are at the scale of tens of millions of users, and verification at
 ```mermaid
 graph TB
     subgraph "Six Design Requirements for the Next-Generation SNS"
-        A[1. Default<br/>No-Profiling<br/>Ranking]
-        B[2. Subscription-Led<br/>Contextual Ads<br/>Supplementary]
-        C[3. SDT-Derived<br/>Metrics-Based<br/>Reward Design]
-        D[4. Legal Product<br/>Liability for<br/>Design Features]
-        E[5. Algorithmic<br/>Transparency<br/>for Researchers]
-        F[6. Federation<br/>Portability]
+        A[1. Default\nNo-Profiling\nRanking]
+        B[2. Subscription-Led\nContextual Ads\nSupplementary]
+        C[3. SDT-Derived\nMetrics-Based\nReward Design]
+        D[4. Legal Product\nLiability for\nDesign Features]
+        E[5. Algorithmic\nTransparency\nfor Researchers]
+        F[6. Federation\nPortability]
     end
 
     subgraph "Evidence Strength"
-        G[High<br/>Already required by regulation]
-        H[Medium to High<br/>Individually proven]
-        I[Principles robust<br/>Implementation unvalidated]
+        G[High\nAlready required by regulation]
+        H[Medium to High\nIndividually proven]
+        I[Principles robust\nImplementation unvalidated]
     end
 
     A --> G
