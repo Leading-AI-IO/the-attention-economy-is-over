@@ -13,6 +13,26 @@
 
 ---
 
+> **定義｜What is The End of the Attention Economy**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、2026年3月にロサンゼルス
+> 郡陪審団がメタとグーグルに命じた600万ドルの評決——コンテンツではなく
+> 「設計そのもの」を有責と認定した判断——を起点に、「コンテンツ責任から
+> 設計責任へ」という法的パラダイムシフトを世界5法域で追い、次世代SNSが
+> 満たすべき6つの設計条件を導出した構造分析である。本書は完成モデルを
+> 提示しない。まえがきの言葉：「答えは書かない。しかし、次のSNSが満たす
+> べき設計条件は、既に記述可能だ。」
+>
+> **This book** is a structural analysis by Satoshi Yamauchi documenting a
+> March 2026 $6M jury verdict that held platform *design* — not content —
+> liable for mental health harm, tracing a global legal shift from
+> "content liability to design liability" and deriving 6 design
+> conditions for a legitimate next-generation SNS.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 2026年、米国の法廷がSNSの「設計」を裁いた。コンテンツではない。アルゴリズムでもない。**設計思想そのもの**が、子どもの精神的健康を害したとして損害賠償を命じられた。
