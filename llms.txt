@@ -1,0 +1,92 @@
+# The End of the Attention Economy. What Should the Next SNS Look Like?
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist,
+> documenting how a Los Angeles jury's $6M verdict against Meta and
+> Google (March 2026) held platform *design* — not content — liable for a
+> young woman's mental health harm, as one node in a global legal
+> convergence from "content liability" to "design liability." The book
+> offers no prescriptions for what should replace the attention economy;
+> instead it derives 6 design conditions a legitimate next-generation SNS
+> would need to satisfy. As stated in the preface: "答えは書かない。しかし、
+> 次のSNSが満たすべき設計条件は、既に記述可能だ。" ("I will not write the
+> answer. But the design conditions the next SNS must satisfy can already
+> be specified.")
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/the-attention-economy-is-over_JP.md): まえがき・序章・全9章・終章収録
+- [Full text (English)](docs/en/the-attention-economy-is-over_EN.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book documents the March 2026 LA County jury verdict ($6M against
+  Meta and Google) that found the plaintiff's harm caused by platform
+  *design* (infinite scroll, autoplay, variable-ratio "like" rewards) —
+  not content — establishing this as product liability rather than
+  publisher liability under Section 230; two days later New Mexico fined
+  Meta $375M, and as of Oct 2025 federal MDL 3047 exceeded 2,053 cases
+  with ~800 more consolidated in California state courts
+  
+- The book cites the presiding judge's 2024 ruling (MDL 3047) that
+  algorithmic promotion of content is a "product design act" distinct
+  from hosting third-party content, and thus not fully shielded by
+  Section 230 — the legal basis the book calls the shift from "content
+  liability to design liability"
+
+- The book documents Facebook's 2018 "Meaningful Social Interactions"
+  (MSI) algorithm change as a cautionary case: internal documents showed
+  angry-reaction comments were weighted 5x a "like," and whistleblower
+  Frances Haugen's Senate testimony described how optimizing for a single
+  engagement metric amplified divisive content — the book's basis for
+  concluding "changing the metric without changing the business model
+  only changes the flavor of extraction"
+
+- The book cites a 2024 Nature Human Behaviour study linking infinite-
+  scroll feeds to gambling-like dopamine reward circuits (variable ratio
+  reinforcement), and the 2023 US Surgeon General advisory finding
+  adolescents using social media 3+ hours/day face 2x the mental health
+  risk, alongside WHO/HBSC data showing "problematic social media use"
+  among youth rising from 7% (2018) to 11% (2022) across 44 countries
+
+- The book explicitly flags evidentiary limits it will not overstate: the
+  causal strength (not just correlation) between social media use and
+  mental health decline remains academically contested (citing Jonathan
+  Haidt vs. Candice Odgers), and no rigorous monetized estimate of
+  attention-economy-specific productivity loss exists despite the
+  commonly cited "$1 trillion" figure being a broader, unattributed
+  estimate
+
+- The book documents failed and struggling alternatives: BeReal (peaked
+  ~73M MAU, acquired by Voodoo for ~€500M after users churned once novelty
+  wore off), Bluesky (~36M accounts) and Mastodon (~10M accounts, neither
+  has a proven revenue model), and historical failures Ello, Vero, and
+  Path — concluding no anti-attention SNS has reached billion-user scale
+  or profitability
+
+- The book cites Substack (Sacra: ~$45M ARR, ~5M paid subscribers, ~$450M
+  creator GMV, cash-flow positive in Q1 2025) and DuckDuckGo's contextual-
+  ad-only profitability as evidence that subscription and contextual-ad
+  models can align platform and creator incentives around quality rather
+  than impressions
+
+- The book grounds its proposed metric framework in Self-Determination
+  Theory (Deci & Ryan): autonomy, competence, and relatedness — while
+  explicitly stating that no SNS has validated SDT-based metrics in
+  production at scale as of April 2026, calling this "the largest open
+  question in next-generation SNS design"
+
+- The book's 6 design conditions: (1) non-profiling ranking by default,
+  (2) subscription-primary/contextual-ad-secondary revenue, (3) SDT-
+  derived reward metrics, (4) legal product-liability for design
+  features, (5) researcher access to algorithm data, (6) federation/
+  portability — each rated by the book's own evidentiary strength (high,
+  medium-high, or "principle solid but unimplemented")
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
