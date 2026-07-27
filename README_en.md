@@ -13,6 +13,23 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, documenting a March 2026 Los Angeles jury verdict ($6M
+> against Meta and Google) that held platform *design* — not content —
+> liable for a young woman's mental health harm, tracing a global legal
+> shift from "content liability to design liability" across the US, EU,
+> Australia, UK, and Japan. The book offers no prescriptions for what
+> should replace the attention economy; instead it derives 6 design
+> conditions a legitimate next-generation SNS must satisfy. As stated in
+> the preface: "I will not write the answer. But the design conditions
+> the next SNS must satisfy can already be specified."
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 In 2026, a U.S. court held social media platforms liable — not for their content, not for their algorithms, but for their **design philosophy itself** — for harming the mental health of children.
