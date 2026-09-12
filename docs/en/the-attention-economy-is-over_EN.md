@@ -27,7 +27,8 @@ Infinite scroll. Autoplay. Push notifications. The variable reward of "likes."
 These are not accidental byproducts.
 They were intentionally designed to hold a user's attention for even one more second and convert that second into advertising revenue.
 
-Two days after this verdict, a New Mexico court ordered Meta to pay $375 million (approximately ¥56.3 billion) in penalties.
+(Corrected September 12, 2026)<br/>
+The day before this verdict, a jury in Santa Fe, New Mexico had imposed $375 million (approximately ¥56.3 billion) in civil penalties on Meta.
 Federal-level class action lawsuits in the United States exceeded 2,053, with school district lawsuits alone surpassing 250.
 
 Internal Meta documents were submitted as evidence in court.
@@ -150,8 +151,10 @@ The jury accepted this argument.
 
 ### What Happened After the Verdict
 
-Two days after this verdict, New Mexico ordered Meta to pay
-$375 million (approximately ¥56.3 billion) in penalties.
+(Corrected September 12, 2026)<br/>
+The day before this verdict, a jury in Santa Fe, New Mexico had imposed $375 million (approximately ¥56.3 billion) in civil penalties on Meta.<br/>
+The verdict found violations of the state's Unfair Practices Act, and the amount was the statutory maximum of $5,000 per violation multiplied by the number of violations found.<br/>
+The Los Angeles verdict came the following day.
 
 At the federal level, class action lawsuits exceeded 2,053 as of October 2025.
 In California state courts, approximately 800 additional cases were consolidated separately.
@@ -164,20 +167,51 @@ Internal documents containing the statement that "algorithmic addiction can be f
 
 Beyond the courts, change was accelerating.
 
-In February 2024, the European Commission published a preliminary view that TikTok's infinite scroll, autoplay, push notifications,
-and highly personalized recommender systems violated the Digital Services Act (DSA).
+(Corrected September 12, 2026)<br/>
+On February 19, 2024, the European Commission opened proceedings against TikTok.<br/>
+The preliminary view that TikTok's infinite scroll, autoplay, push notifications,<br/>
+and highly personalized recommender systems violated the Digital Services Act (DSA) was issued two years later, on February 6, 2026.<br/>
 The Commission demanded that TikTok make **changes to the basic design of its service**.
 
-In December 2024, Australia enacted the world's first law banning social media use for those under 16.
-Platforms in violation face penalties of up to A$50 million (approximately ¥5.1 billion).
+(Corrected September 12, 2026)<br/>
+On December 10, 2024, Australia enacted the world's first law banning social media use for those under 16.<br/>
+However, the age-restriction obligation on platforms did not take effect until December 10, 2025, after a one-year transition period.<br/>
+A corporation in violation faces civil penalties of up to 150,000 penalty units.<br/>
+At the exchange rate at the time of enactment, that was approximately A$49.5 million (approximately ¥5.1 billion).
 
-In December 2025, the European Commission imposed a fine of €120 million (approximately ¥20 billion) on X (formerly Twitter)
-for violations of DSA transparency obligations.
-It was the first major monetary penalty under the DSA.
+(Corrected September 12, 2026)<br/>
+On December 5, 2025, the European Commission imposed a fine of €120 million (approximately ¥20 billion) on X (formerly Twitter)<br/>
+for violations of DSA transparency obligations.<br/>
+It was the first major monetary penalty under the DSA. X appealed the decision to the EU General Court in February 2026.
 
 In Japan as well, the "Act on Promotion of Competition for Smartphone Software" was enacted in June 2024,
 establishing a legal framework prohibiting algorithmic self-preferencing.
 In April 2026, the Ministry of Internal Affairs and Communications began considering requiring SNS operators to include age-appropriate filtering features as standard.
+
+### Five Months Later — The Verdict Became a Judgment
+
+(Added September 12, 2026)
+
+The five months that followed showed that this verdict was not an isolated event.
+
+On June 9, 2026, Judge Carolyn Kuhl issued a 26-page ruling<br/>
+denying in full the motions by Meta and Google to overturn the verdict and for a new trial.<br/>
+The reason the judge gave came down to a single point.<br/>
+The harm the plaintiffs suffered was caused by Instagram's **design features**, and was proven independently of what content happened to be on the platform.<br/>
+Section 230 of the Communications Decency Act protects the distribution of content, not choices about design.<br/>
+Both companies appealed the following month.
+
+On August 6, 2026, a New Mexico court found Meta's design to be a **public nuisance** in the second phase of trial,<br/>
+ordering the company to fund $567 million in abatement over five years.<br/>
+Combined with the $375 million imposed by the jury in March, the company's liability in that state reached $942 million.<br/>
+Public nuisance is a doctrine that has governed factory smoke and noise. It was applied to the design of software.
+
+And on August 26, 2026, in the United States District Court for the Northern District of California,<br/>
+Meta reached a settlement with 51 state attorneys general, which Judge Yvonne Gonzalez Rogers approved the same day.<br/>
+The trial had begun only on August 18, and ended before reaching its fifth day.
+
+In five months, the judgment a jury reached in March was upheld as a ruling, repeated under a different doctrine,<br/>
+and became **an obligation enforced by a court**.
 
 | Year | Event | Significance |
 |---|---|---|
@@ -185,11 +219,21 @@ In April 2026, the Ministry of Internal Affairs and Communications began conside
 | 2018 | Genesis of Frances Haugen's internal disclosure (Facebook MSI shift) | Design problems became visible from the inside |
 | 2022 | EU Digital Services Act (DSA) enacted | Mandated systemic risk assessment for algorithmic design |
 | October 2023 | Attorneys general from 42 US states sued Meta | State governments formally asserted design liability |
-| February 2024 | European Commission flagged TikTok's "addictive design" | Demanded changes to basic design |
+| February 2024 | European Commission opened proceedings against TikTok | Addictive design designated as subject of investigation |
 | December 2024 | Australia's under-16 social media ban enacted | World's first age restriction law |
 | December 2025 | First major DSA fine of €120M imposed on X (formerly Twitter) | Monetary penalty for transparency violations |
+| December 2025 | Australia's SMMA age-restriction obligation took effect | Came into force after a one-year transition period |
 | January 2026 | TikTok settled (just before trial) | Avoided exposure of internal documents |
+| February 2026 | European Commission issued preliminary findings on TikTok's addictive design | First determination that design itself breaches the DSA |
 | March 2026 | Los Angeles County $6 million verdict | "Design = defective product" recognized by jury |
+| June 2026 | Motions to overturn the verdict and for a new trial denied | Section 230 held not to protect choices about design |
+| July 2026 | European Commission issued preliminary findings on Meta's addictive design | Enforcement extended to the two largest platforms in the EU |
+| August 2026 | New Mexico found public nuisance | Nuisance doctrine applied to design |
+| August 2026 | Meta settled with 51 attorneys general; court approved | Default settings became subject to court enforcement |
+| August 2026 | French Constitutional Council struck down the under-15 ban | Age-based gatekeeping failed judicial review |
+| September 2026 | California prohibited the provision of addictive features | Direct prohibition of design became enacted law |
+
+(Corrected and added September 12, 2026: the February 2024 and December 2024 entries were revised, and eight rows covering December 2025 through September 2026 were added)
 
 This table points in one direction.
 
@@ -223,6 +267,14 @@ What the courts judged was not Meta, nor Google, nor TikTok.
    https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions
 5. BUSINESS JOURNAL. "Meta and Google ordered to pay damages for 'addictive design'… wave of global regulation and annual $1 trillion productivity loss." April 29, 2026.
    https://biz-journal.jp/economy/post_394473.html
+6. Insurance Journal. "Google and Meta Denied New Trial in Youth Social Media Addiction Case." June 11, 2026.
+   https://www.insurancejournal.com/news/national/2026/06/11/873311.htm
+7. PBS News. "New Mexico court orders Meta to pay $567 million over mental health harms to kids online." August 7, 2026.
+   https://www.pbs.org/newshour/nation/new-mexico-court-orders-meta-to-pay-567-million-over-mental-health-harms-to-kids-online
+8. New Mexico Department of Justice. "New Mexico Department of Justice Wins Landmark Verdict Against Meta." March 24, 2026.
+   https://nmdoj.gov/press-release/new-mexico-department-of-justice-wins-landmark-verdict-against-meta/
+9. Office of the Attorney General of New York. "Attorney General James Secures Up to $17.1 Billion and Groundbreaking Reforms from Meta." August 26, 2026.
+   https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta
 
 <br/>
 
@@ -438,7 +490,8 @@ It is **the algorithmic design itself**.
 ### 2.1 What 2,053 Class Action Lawsuits Mean in the United States
 
 Under Judge Yvonne Gonzalez Rogers of the US District Court for the Northern District of California, a group of lawsuits has been consolidated as MDL 3047.
-As of October 2025, they exceeded 2,053 cases, with approximately 800 additional cases consolidated separately in California state courts.
+As of October 2025, they exceeded 2,053 cases, with approximately 800 additional cases consolidated separately in California state courts.<br/>
+(Added September 12, 2026) This number has continued to grow into 2026.
 
 The defendants include Meta, Google/YouTube, TikTok, Snap, and others.
 The plaintiffs are minors and their families who claim to have suffered mental health harm from social media use.
@@ -471,6 +524,58 @@ A New York state court also denied TikTok's motion to dismiss in January 2025.
 And in January 2026, TikTok settled just before its first jury trial.
 Internal documents contained the statement that "algorithmic addiction can be formed in as little as 35 minutes."
 TikTok sought to avoid having this document read aloud in court.
+
+#### The Settlement with 51 States — What Changed Was Not the Amount, but the Default Settings
+
+(Added September 12, 2026)
+
+On August 26, 2026, Meta settled with 51 state attorneys general.<br/>
+This was the resolution of the very lawsuit that 42 states had filed in October 2023.
+
+The reported figure was up to $17.1 billion.<br/>
+But what truly set a precedent in this settlement was not the amount.<br/>
+It was that **the settlement terms specified the product's default settings by name**.
+
+| Target | Mandated setting |
+|---|---|
+| Time of use | Two hours per day by default for users under 18 |
+| Overnight | Access blocked from midnight to 6:00 a.m. |
+| Notifications | Suspended from 10:00 p.m. to 7:00 a.m. and during school hours |
+| Display | Like counts hidden from users under 18 |
+| Filters | Cosmetic-surgery-style filters prohibited |
+| Feed | A non-algorithmic feed offered as an option |
+| Reports | 90% of reports from minors answered within six hours |
+| Override | None of the above can be lifted without a parent's authentication |
+
+In addition, the settlement includes age assurance measures to detect users under 18 and children under 13,<br/>
+and the appointment of an independent auditor to oversee compliance.
+
+Payments are spread over ten years.<br/>
+About $12.2 billion is fixed, and the remainder is contingent — it arises only if other platforms accept comparable obligations and contributions.<br/>
+In other words, this settlement has a structure that **links one company's design changes to design changes across the industry**.
+
+One thing should be noted here.<br/>
+This settlement goes into extraordinary detail in the domain of design — time of use, notifications, display, feed.<br/>
+Yet **it does not touch the revenue structure itself, the conversion of attention into advertising impressions, by a single line.**<br/>
+As we will see in Chapter 5, this is not an accident.
+
+#### "They Didn't Want It" — Read Aloud in Court
+
+(Added September 12, 2026)
+
+Eight days before the settlement, at a trial that began on August 18, Adam Mosseri, the head of Instagram, took the stand.
+
+One point at issue was "Take a Break" — a feature that prompts users to pause.<br/>
+Mosseri acknowledged that before the feature was made the default for minors' accounts, the share of teenagers actually using it was very small.<br/>
+He then said, as reported, that most teenagers did not want it, and that the company decided to move forward anyway.
+
+Testimony from a former employee goes further.<br/>
+The employee argued for making safety features the default for younger users, but the proposal<br/>
+was not approved on the grounds that **the trade-off against core metrics was unfavorable**.
+
+The 2018 MSI shift discussed in Chapter 5 was a case where metrics betrayed good intentions.<br/>
+What was recorded in court in 2026 is a case where **metrics stopped the safety feature from being implemented at all**.<br/>
+The former was an unintended consequence. The latter was a decision.
 
 ### 2.2 European Union: The Rules Changed by the Digital Services Act
 
@@ -507,12 +612,44 @@ It was the first major monetary penalty under DSA transparency obligations.
 Formal investigations and enforcement actions under the DSA have exceeded 86 since April 2023.
 This number surpasses the combined total under GDPR, DMA, and the AI Act.
 
+#### Summer 2026 — Enforcement Extended to the Two Largest Platforms
+
+(Added September 12, 2026)
+
+In the summer of 2026, DSA enforcement entered a new phase.
+
+**On July 10, the European Commission issued preliminary findings that the addictive design of Facebook and Instagram breaches the DSA.**<br/>
+Named in the findings were infinite scroll, autoplay, push notifications, and highly personalized recommender systems.
+
+The Commission's reasoning had two parts.<br/>
+Meta has not adequately assessed the risks these design choices pose to users' physical and mental health.<br/>
+And the mitigation measures Meta put in place have not effectively addressed those risks.<br/>
+The proceedings had been opened on May 16, 2024 — this was the conclusion of more than two years of investigation.<br/>
+Within the same proceedings, preliminary findings on age assurance for children under 13 were also issued on April 29, 2026,<br/>
+and the investigation into "rabbit hole" effects, whereby recommender systems draw minors in, continues.
+
+**Two weeks later, on July 24, preliminary findings were issued against TikTok.**<br/>
+The issue was the default settings of minors' accounts.<br/>
+On TikTok, a minor can set their own account to "public," which allows anyone — including people without an account — to view that child's content.<br/>
+Posts by 16- and 17-year-olds are recommended to other users through the For You feed.
+
+The Commission asked that minors' content be visible by default only to people the minor has approved,<br/>
+and that minors' content not be recommended in the For You feed.
+
+When this book wrote at the opening of Chapter 2 that the demand is "not remove the content, but change the design,"<br/>
+the example was a single company, TikTok.<br/>
+As of the summer of 2026, the same demand has been made **against the two largest platforms in the EU at the same time**.<br/>
+If final decisions follow, fines can reach up to 6% of global turnover.
+
 ### 2.3 Australia: The World's First Under-16 Ban
 
-In December 2024, Australia enacted the world's first law banning social media use for those under 16.
-The "Online Safety Amendment (Social Media Minimum Age) Act 2024" — commonly known as SMMA.
-This law targets Facebook, Instagram, Snapchat, Threads, TikTok, Twitch, X, YouTube, Kick, and Reddit, banning account creation for those under 16.
-Platforms in violation face penalties of up to A$49.5 million (approximately ¥5.1 billion).
+(Corrected September 12, 2026)<br/>
+On December 10, 2024, Australia enacted the world's first law banning social media use for those under 16.<br/>
+The "Online Safety Amendment (Social Media Minimum Age) Act 2024" — commonly known as SMMA.<br/>
+This law targets Facebook, Instagram, Snapchat, Threads, TikTok, Twitch, X, YouTube, Kick, and Reddit, banning account creation for those under 16.<br/>
+However, the age-restriction obligation on platforms did not take effect until December 10, 2025, after a one-year transition period.<br/>
+A corporation in violation faces civil penalties of up to 150,000 penalty units.<br/>
+That is approximately A$49.5 million at the exchange rate when the law was enacted, and approximately A$54.6 million as stated by the eSafety Commissioner in 2026.
 
 What distinguishes this law from other regulations is the logic of its justification.
 The law explicitly cites "design features that encourage them to spend more time on screens" as the basis for the ban.
@@ -522,6 +659,23 @@ In other words, the SMMA is a law grounded not in the harmfulness of content, bu
 Post-enactment effectiveness requires careful evaluation.
 Data suggests that more than 20% of 13-15 year-olds continue to access banned apps.
 The law's practical effectiveness will require verification over the coming years.
+
+#### What Is Being Debated Next Is the Adult Feed
+
+(Added September 12, 2026)
+
+Australia's under-16 ban was a gatekeeping rule aimed at children.<br/>
+On September 8, 2026, the government announced the next step. This time the target is adults.
+
+Named "My Feed, My Way," the proposal would, within a digital duty of care framework,<br/>
+require platforms to **let users aged 16 and over choose how their feed is assembled**.<br/>
+Accept algorithmically personalized recommendations, or<br/>
+switch to a chronological feed centred on the accounts they follow.<br/>
+Users would be notified of the choice and could switch at any time.
+
+This is the first proposal to legislate Design Requirement 1 of this book — making ranking without behavioral profiling the default —<br/>
+**for adults rather than minors**.<br/>
+At present, however, it is a draft bill out for consultation, not enacted law.
 
 However, the very existence of the law demonstrates one fact.
 A sovereign nation has legislated the design of social media as **a product safety issue**.
@@ -597,6 +751,73 @@ graph TB
     style G fill:#6b7b8d,stroke:#1e2a3a,color:#fff
 ```
 
+#### But What Converged Was the Direction, Not the Method
+
+(Added September 12, 2026)
+
+The developments traced so far do point in one direction.<br/>
+But the summer of 2026 taught something else as well.<br/>
+**Among the methods heading in that direction, which ones survive judicial review has not been settled.**
+
+On August 14, 2026, the French Constitutional Council struck down as unconstitutional Article 1 of a law banning social media use for those under 15.<br/>
+What deserves attention is the reasoning.<br/>
+The Council first accepted that the objective of protecting children's interests can justify restricting minors' use.<br/>
+It then rejected this particular ban.
+
+There were two reasons.<br/>
+First, a mechanism that categorically excludes those under 15 means **requiring every user, adults included, to prove their age**.<br/>
+Second, the legislature did not specify in law the conditions and limits under which that age verification would be carried out.<br/>
+Absent such provisions, the law lacks the legal safeguards necessary to protect private life.<br/>
+The law had been passed only on July 21, and lost effect before its September start date.
+
+A comparable ruling has come in the United States.<br/>
+On June 27, 2026, a federal district court in Nebraska **enjoined the provisions of that state's law requiring age verification and parental consent**,<br/>
+which had been due to take effect on July 1.<br/>
+The court held that they are content-based regulations and are not narrowly tailored enough to survive strict scrutiny.<br/>
+The same ruling, however, declined to enjoin the provisions allowing parents to review minors' posts and messages.<br/>
+Those, the court found, were sufficiently narrowly tailored to the identified harm.
+
+A line can be drawn from these two rulings.<br/>
+**What is failing judicial review is the method of closing the gate by age. It is not the method of regulating design itself.**<br/>
+What the EU's DSA demands is a change in design; what Meta's settlement mandates is default settings;<br/>
+what Australia proposes is a right to choose one's feed. None of these are rules that shut anyone out.
+
+The conclusion of Chapter 2 is therefore rewritten as follows.<br/>
+What is converging across jurisdictions is the **direction** — from content liability to design liability.<br/>
+But among the methods of arriving there, closing the gate by age and regulating design directly<br/>
+**differ in legal durability.**
+
+### 2.6 The Same Framework Is Spreading to Conversations with AI
+
+(Added September 12, 2026)
+
+What this book has dealt with so far is a structure in which algorithms distribute human-posted content to humans.<br/>
+In 2026, that framework began to be applied to a different object: conversational services in which the counterpart is not a person but an AI.
+
+On September 10, the Governor of California signed 13 child-protection bills.<br/>
+One of them, SB 1119, is named "Adam's Law" and covers companion chatbots.<br/>
+What it requires is crisis-response protocols when suicidal ideation is expressed, parental controls,<br/>
+notification when a child disables safety settings, and **independent third-party child-safety audits and annual risk assessments**.
+
+Another bill signed the same day prohibits providing users under 16<br/>
+with autoplay and with algorithmic feeds based on browsing history and profiles.<br/>
+**Design regulation for social media and regulation of AI conversation now sit side by side in the same package of bills.**
+
+Here this book states one distinction explicitly.
+
+That the regulatory **framework** is spreading is a fact.<br/>
+Liability for design, obligations on default settings, independent audits — the instruments this book has followed in Chapter 2<br/>
+are beginning to be applied to AI conversation services as they stand.
+
+But **there is not enough basis to say the structure is the same.**<br/>
+The defining feature of the attention economy was holding attention and converting that time into advertising impressions.<br/>
+Whether the revenue of AI companions travels the same path could not be confirmed within the scope of this book's research.<br/>
+For a service billed by subscription, the relationship between dwell time and revenue takes a different form than in the advertising model.
+
+This book therefore records one point only.<br/>
+**The legal framework of holding design accountable has begun to leave its origins in ad-supported social media and become an independent regulatory instrument.**<br/>
+Whether it is a problem of the same business model cannot yet be written.
+
 ## References
 
 1. TruLaw. "Social Media Mental Health Lawsuit — MDL 3047 Update." March 2026.
@@ -613,6 +834,22 @@ graph TB
    https://itif.org/publications/2025/05/25/japan-self-reporting-rules/
 7. Global Competition Review. "Japan: competition policy and enforcement trends in digital markets."
    https://globalcompetitionreview.com/guide/digital-markets-guide/fifth-edition/article/japan
+8. Office of the Attorney General of California. "Attorney General Bonta Secures Transformative $17 Billion Settlement with Meta." August 26, 2026.
+   https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-transformative-17-billion-settlement-meta
+9. European Commission. "Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act." July 10, 2026.
+   https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-addictive-design-instagram-and-facebook-breach-digital-services-act
+10. European Commission. "Commission preliminary finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors." July 24, 2026.
+   https://digital-strategy.ec.europa.eu/en/news/commission-preliminary-finds-tiktok-breach-digital-services-act-failing-ensure-safe-accounts-minors
+11. Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts (Australia). "Social Media Minimum Age — Fact sheet." July 2025.
+   https://www.infrastructure.gov.au/sites/default/files/documents/social-media-minimum-age-and-age-assurance-trial-fact-sheet-july-2025.pdf
+12. Prime Minister of Australia. "My Feed, My Way." September 8, 2026.
+   https://www.pm.gov.au/media/my-feed-my-way
+13. Conseil constitutionnel. "Décision n° 2026-911 DC du 14 août 2026." August 14, 2026.
+   https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm
+14. United States District Court for the District of Nebraska. "NetChoice v. Hilgers, No. 4:26-CV-3149 — Memorandum and Order." June 27, 2026.
+   https://netchoice.org/wp-content/uploads/2026/06/NE_Granting-PI-in-Part-and-Denying-in-Part.pdf
+15. Office of Governor Gavin Newsom. "Governor Newsom signs the strongest child safety chatbot and social media laws in the nation." September 10, 2026.
+   https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/
 
 <br/>
 
@@ -979,6 +1216,31 @@ This lesson is one of the most important findings for considering the design req
 **Changing metrics is not enough.**
 **The business model must be changed.**
 
+#### Eight Years Later, the Same Structure Was Read Aloud in Court
+
+(Added September 12, 2026)
+
+The MSI failure happened in 2018.<br/>
+Internal documents recorded it, and the 2021 whistleblower disclosure brought it out.<br/>
+It is widely known as a story of metrics betraying good intentions.
+
+In August 2026, that structure appeared in court in a different form.<br/>
+In the suit brought by state attorneys general, the head of Instagram acknowledged<br/>
+that before a feature prompting users to pause was made the default for minors, very few teenagers were actually using it.<br/>
+Most teenagers did not want it. The company moved forward anyway.<br/>
+According to testimony from a former employee, the proposal to make safety features the default for younger users<br/>
+was not approved on the grounds that the trade-off against core metrics was unfavorable.
+
+The difference between the two cases lies in where the intent sits.<br/>
+MSI was an unintended consequence. A reform meant to increase "meaningful social interaction" amplified anger.<br/>
+What was recorded in 2026 was a **decision**.<br/>
+Making a safety feature the default lowers the metrics. So it was not made the default.
+
+This strengthens the chapter's conclusion by one degree.<br/>
+Changing metrics is not enough — that was the lesson drawn from 2018.<br/>
+What 2026 added comes after it.<br/>
+**As long as the business model does not change, metrics decide even whether safety features get implemented at all.**
+
 ## References
 
 1. CESifo Working Paper No. 10011 (Acemoglu et al.). "Social Media and Society."
@@ -989,6 +1251,8 @@ This lesson is one of the most important findings for considering the design req
    https://www.rev.com/transcripts/facebook-whistleblower-frances-haugen-testifies-on-children-social-media-use-full-senate-hearing-transcript
 4. Yale School of Management. "Regulating Content Recommendation Algorithms in Social Media."
    https://som.yale.edu/sites/default/files/2022-05/DPRC-Holdheim.pdf
+5. Reuters. "Instagram head Mosseri, at children's addiction trial, says few teenagers knew of safety feature." August 26, 2026.
+   https://bworldonline.com/technology/2026/08/26/772550/instagram-head-mosseri-at-childrens-addiction-trial-says-few-teenagers-knew-of-safety-feature/
 
 <br/>
 
@@ -1087,6 +1351,30 @@ No general-purpose SNS that is ad-free and sustainably profitable exists.
 
 This is also the reason this book cannot present a "completed model for the next-generation SNS."
 A completed model does not yet exist.
+
+### 6.5 The Report Card Four Months On — Only One Side Moved
+
+(Added September 12, 2026)
+
+Four and a half months have passed since this book was written.<br/>
+In that time, on the side of services built around anti-attention design,<br/>
+no event that would rewrite the picture of scale or revenue could be confirmed.<br/>
+Anti-attention SNS platforms in the tens of millions of users exist; anti-attention SNS platforms in the billions of users do not.<br/>
+That asymmetry has not moved.
+
+Meanwhile, something else has not moved either.<br/>
+**The advertising model has not contracted.**
+
+In the first half of 2026, Meta went to trial against state attorneys general and reached a settlement of up to $17.1 billion in August.<br/>
+In New Mexico it took on $942 million in liability.<br/>
+From the European Commission it received preliminary findings that its addictive design breaches the DSA.<br/>
+Even so, the company's advertising revenue has continued to run above the same period a year earlier.
+
+Placing these two side by side reconfirms the chapter's conclusion from a different angle.<br/>
+The reason alternative models have not yet worked is not that the design philosophy is wrong.<br/>
+**It is that the advertising model is strong enough to keep compounding in the middle of regulation and litigation.**<br/>
+The common cause behind the "graveyard of failures" seen in 6.3 — that there was no way to raise growth capital without advertising —<br/>
+remains exactly as it was four months on.
 
 However, design requirements can be described.
 In the following chapters, we will examine the elements that constitute those requirements.
@@ -1349,6 +1637,12 @@ Personalization based on behavioral profiling should be applied only when the us
 EU DSA Article 38 already mandates that VLOPs offer recommender options not based on profiling.
 The US KOSA/KIDS Act bills require an "input-transparent algorithm" as the default for minors.
 
+**(Added September 12, 2026) Update as of September 2026.**<br/>
+California enacted a law prohibiting the provision of autoplay and history-based feeds to users under 16.<br/>
+Meta's settlement with 51 state attorneys general mandated that a non-algorithmic feed be offered as an option.<br/>
+Australia published a draft bill granting users aged 16 and over the right to choose their feed.<br/>
+**This requirement has moved past the stage of bills and preliminary findings, to the level of enacted law and a court-enforced settlement.**
+
 ### Design Requirement 2: Revenue Structure Led by Subscription, Supplemented by Contextual Advertising
 
 The primary revenue axis should be direct user payment (subscription),
@@ -1361,6 +1655,9 @@ DuckDuckGo maintains profitability with contextual advertising alone.
 Norwegian publisher data showed contextual advertising yielding 391% higher revenue than tracking advertising.
 However, none of these have been verified at the scale of Meta or TikTok.
 
+**(Added September 12, 2026) No update as of September 2026.**<br/>
+Within the period, no new primary data on the scale of alternative revenue models could be confirmed.
+
 ### Design Requirement 3: Reward Design Based on SDT-Derived Metrics
 
 Platform KPIs and creator compensation should be designed around metrics based on autonomy, competence, and relatedness fulfillment.
@@ -1370,6 +1667,10 @@ A metric system aligned with well-being should be built to replace "like counts,
 SDT is one of the most established theories in psychology, and its reliability as a design principle is high.
 However, no instance exists of SDT being converted into production-level operational metrics.
 **This is the single largest open question in next-generation SNS design.**
+
+**(Added September 12, 2026) No update as of September 2026.**<br/>
+No instance of SDT-based operational metrics being validated in a production social media environment can still be confirmed.<br/>
+**It is the only one of the six requirements that did not move at all over four and a half months.**
 
 ### Design Requirement 4: Legal Product Liability for Design Features
 
@@ -1382,6 +1683,12 @@ The MDL 3047 judge determined that algorithmic promotion is not protected by Sec
 42 states sued Meta on design liability grounds.
 Australia's SMMA explicitly cites "design features" as the basis for the ban.
 The EU DSA demanded "changes to basic design."
+
+**(Added September 12, 2026) Update as of September 2026.**<br/>
+The June ruling made explicit that Section 230 does not protect choices about design.<br/>
+The August judgment found design to be a public nuisance.<br/>
+The August settlement made default settings themselves subject to court enforcement.<br/>
+**This requirement is now supported by both case law and enforceable obligations.**
 
 ### Design Requirement 5: Algorithmic Transparency for Researchers
 
@@ -1399,6 +1706,9 @@ Lock-in to a single platform should be structurally eliminated.
 **Evidence strength: Technically proven, but large-scale deployment has not been achieved.**
 Bluesky (AT Protocol) and Mastodon (ActivityPub) have proven technical feasibility.
 However, both are at the scale of tens of millions of users, and verification at the scale of hundreds of millions has not occurred.
+
+**(Added September 12, 2026) No update as of September 2026.**<br/>
+Large-scale deployment remains unachieved.
 
 ```mermaid
 graph TB
@@ -1437,9 +1747,18 @@ graph TB
 
 ### Overall Evidence Assessment
 
-Of the six design requirements, four (Requirements 1, 4, 5, and part of 2) are already required by regulation or individually proven.
-One (Requirement 6) is technically proven but has not achieved large-scale deployment.
-One (Requirement 3) is theoretically robust but has no validation in a production environment.
+(Corrected and added September 12, 2026)<br/>
+Of the six design requirements, Requirements 1 and 4 have risen one level since this book was written.<br/>
+At the time of writing, what supported them were bills, preliminary findings, and pending litigation.<br/>
+As of September 2026, they are supported by **enacted law, a final judgment, and a court-enforced settlement**.<br/>
+Requirement 5 remains required by regulation, and Requirements 2 and 6 remain at the level of individual proof.<br/>
+And Requirement 3 **did not move a millimetre over four and a half months.**
+
+This distribution itself shows one thing.<br/>
+**What courts and regulators can move is design.**<br/>
+What is made the default, what is prohibited, who is given the right to choose.<br/>
+**What they cannot move is what is placed as the optimization target.**<br/>
+No jurisdiction anywhere in the world has ordered Requirement 3 — designing rewards around metrics aligned with well-being.
 
 In other words, **the "design requirements" for the next-generation SNS can be described, but a "completed model" does not yet exist.**
 
@@ -1460,6 +1779,10 @@ I hope these design requirements serve as the starting point for that constructi
 4. Sacra. "Substack revenue, valuation & funding."
    https://sacra.com/c/substack/
 5. Ryan & Deci. Self-Determination Theory. 2020.
+6. Office of Governor Gavin Newsom. "Governor Newsom signs the strongest child safety chatbot and social media laws in the nation." September 10, 2026.
+   https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/
+7. Prime Minister of Australia. "My Feed, My Way." September 8, 2026.
+   https://www.pm.gov.au/media/my-feed-my-way
 
 <br/>
 
@@ -1521,6 +1844,29 @@ In Chapter 8, we confirmed that Self-Determination Theory (SDT) is the most prom
 but that its validation in a production environment does not yet exist.
 
 In Chapter 9, we integrated this evidence and presented six design requirements for the next-generation SNS.
+
+---
+
+(Added September 12, 2026)
+
+Four and a half months have passed since I finished writing this book.<br/>
+What happened in that time can be said in a single sentence.
+
+**The machinery for holding design accountable moved. The machinery for converting attention into advertising did not.**
+
+Courts became able to call infinite scroll a defective product.<br/>
+Regulators became able to name autoplay and personalized recommendation as suspected violations.<br/>
+A settlement became able to darken the screen at midnight and remove like counts from the sight of teenagers.
+
+Yet none of it touches **what that one second is converted into**.<br/>
+The path that turns dwell time into advertising impressions remains intact as of September 2026.
+
+Here lies the reason why, of the six design requirements this book presented, only Requirements 2 and 3 remain unfilled.<br/>
+**Courts can judge design. They cannot judge a business model.**<br/>
+Changing the structure of revenue is not the same as stopping an unlawful act.<br/>
+It becomes an option only once someone has made a different model work as a business.
+
+---
 
 To you who have read this far, I pose the first question once more.
 
